@@ -1,7 +1,15 @@
 body{
-    background-color: aqua;
+    background-color: rgb(222, 162, 230);
 }
 
 header{
     background-color: azure;
+}
+.div-tenis{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.imgtenis{
+    width: 350px;
+    height: 310px;
 }
